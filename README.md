@@ -27,7 +27,8 @@ This project delivers a fully interactive Carbon Credit Analysis Dashboard devel
 
 # DashBoard
 
-<img width="885" height="743" alt="Dashbroad" src="https://github.com/user-attachments/assets/512912fd-f651-417f-949b-c5b766edb254" />
+<img width="885" height="743" alt="Dashbroad" src="https://github.com/user-attachments/assets/3ca279a1-33bf-4c09-9275-cb05bdc6fdea" />
+
 
 
 
